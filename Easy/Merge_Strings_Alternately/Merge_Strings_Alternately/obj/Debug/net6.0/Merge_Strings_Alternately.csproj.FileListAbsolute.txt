@@ -1,0 +1,15 @@
+D:\@First@\C#\Merge_Strings_Alternately\Merge_Strings_Alternately\bin\Debug\net6.0\Merge_Strings_Alternately.exe
+D:\@First@\C#\Merge_Strings_Alternately\Merge_Strings_Alternately\bin\Debug\net6.0\Merge_Strings_Alternately.deps.json
+D:\@First@\C#\Merge_Strings_Alternately\Merge_Strings_Alternately\bin\Debug\net6.0\Merge_Strings_Alternately.runtimeconfig.json
+D:\@First@\C#\Merge_Strings_Alternately\Merge_Strings_Alternately\bin\Debug\net6.0\Merge_Strings_Alternately.dll
+D:\@First@\C#\Merge_Strings_Alternately\Merge_Strings_Alternately\bin\Debug\net6.0\Merge_Strings_Alternately.pdb
+D:\@First@\C#\Merge_Strings_Alternately\Merge_Strings_Alternately\obj\Debug\net6.0\Merge_Strings_Alternately.csproj.AssemblyReference.cache
+D:\@First@\C#\Merge_Strings_Alternately\Merge_Strings_Alternately\obj\Debug\net6.0\Merge_Strings_Alternately.GeneratedMSBuildEditorConfig.editorconfig
+D:\@First@\C#\Merge_Strings_Alternately\Merge_Strings_Alternately\obj\Debug\net6.0\Merge_Strings_Alternately.AssemblyInfoInputs.cache
+D:\@First@\C#\Merge_Strings_Alternately\Merge_Strings_Alternately\obj\Debug\net6.0\Merge_Strings_Alternately.AssemblyInfo.cs
+D:\@First@\C#\Merge_Strings_Alternately\Merge_Strings_Alternately\obj\Debug\net6.0\Merge_Strings_Alternately.csproj.CoreCompileInputs.cache
+D:\@First@\C#\Merge_Strings_Alternately\Merge_Strings_Alternately\obj\Debug\net6.0\Merge_Strings_Alternately.dll
+D:\@First@\C#\Merge_Strings_Alternately\Merge_Strings_Alternately\obj\Debug\net6.0\refint\Merge_Strings_Alternately.dll
+D:\@First@\C#\Merge_Strings_Alternately\Merge_Strings_Alternately\obj\Debug\net6.0\Merge_Strings_Alternately.pdb
+D:\@First@\C#\Merge_Strings_Alternately\Merge_Strings_Alternately\obj\Debug\net6.0\Merge_Strings_Alternately.genruntimeconfig.cache
+D:\@First@\C#\Merge_Strings_Alternately\Merge_Strings_Alternately\obj\Debug\net6.0\ref\Merge_Strings_Alternately.dll
