@@ -1,0 +1,15 @@
+C:\Users\elomd\Downloads\Problem Solving\Problem_Solving\Easy\Greatest Common Divisor of Strings\Greatest Common Divisor of Strings\bin\Debug\net6.0\Greatest Common Divisor of Strings.exe
+C:\Users\elomd\Downloads\Problem Solving\Problem_Solving\Easy\Greatest Common Divisor of Strings\Greatest Common Divisor of Strings\bin\Debug\net6.0\Greatest Common Divisor of Strings.deps.json
+C:\Users\elomd\Downloads\Problem Solving\Problem_Solving\Easy\Greatest Common Divisor of Strings\Greatest Common Divisor of Strings\bin\Debug\net6.0\Greatest Common Divisor of Strings.runtimeconfig.json
+C:\Users\elomd\Downloads\Problem Solving\Problem_Solving\Easy\Greatest Common Divisor of Strings\Greatest Common Divisor of Strings\bin\Debug\net6.0\Greatest Common Divisor of Strings.dll
+C:\Users\elomd\Downloads\Problem Solving\Problem_Solving\Easy\Greatest Common Divisor of Strings\Greatest Common Divisor of Strings\bin\Debug\net6.0\Greatest Common Divisor of Strings.pdb
+C:\Users\elomd\Downloads\Problem Solving\Problem_Solving\Easy\Greatest Common Divisor of Strings\Greatest Common Divisor of Strings\obj\Debug\net6.0\Greatest Common Divisor of Strings.csproj.AssemblyReference.cache
+C:\Users\elomd\Downloads\Problem Solving\Problem_Solving\Easy\Greatest Common Divisor of Strings\Greatest Common Divisor of Strings\obj\Debug\net6.0\Greatest Common Divisor of Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elomd\Downloads\Problem Solving\Problem_Solving\Easy\Greatest Common Divisor of Strings\Greatest Common Divisor of Strings\obj\Debug\net6.0\Greatest Common Divisor of Strings.AssemblyInfoInputs.cache
+C:\Users\elomd\Downloads\Problem Solving\Problem_Solving\Easy\Greatest Common Divisor of Strings\Greatest Common Divisor of Strings\obj\Debug\net6.0\Greatest Common Divisor of Strings.AssemblyInfo.cs
+C:\Users\elomd\Downloads\Problem Solving\Problem_Solving\Easy\Greatest Common Divisor of Strings\Greatest Common Divisor of Strings\obj\Debug\net6.0\Greatest Common Divisor of Strings.csproj.CoreCompileInputs.cache
+C:\Users\elomd\Downloads\Problem Solving\Problem_Solving\Easy\Greatest Common Divisor of Strings\Greatest Common Divisor of Strings\obj\Debug\net6.0\Greatest Common Divisor of Strings.dll
+C:\Users\elomd\Downloads\Problem Solving\Problem_Solving\Easy\Greatest Common Divisor of Strings\Greatest Common Divisor of Strings\obj\Debug\net6.0\refint\Greatest Common Divisor of Strings.dll
+C:\Users\elomd\Downloads\Problem Solving\Problem_Solving\Easy\Greatest Common Divisor of Strings\Greatest Common Divisor of Strings\obj\Debug\net6.0\Greatest Common Divisor of Strings.pdb
+C:\Users\elomd\Downloads\Problem Solving\Problem_Solving\Easy\Greatest Common Divisor of Strings\Greatest Common Divisor of Strings\obj\Debug\net6.0\Greatest Common Divisor of Strings.genruntimeconfig.cache
+C:\Users\elomd\Downloads\Problem Solving\Problem_Solving\Easy\Greatest Common Divisor of Strings\Greatest Common Divisor of Strings\obj\Debug\net6.0\ref\Greatest Common Divisor of Strings.dll
